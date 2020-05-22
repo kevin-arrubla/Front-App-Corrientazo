@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449887222508",
+    "firebase_url": "https://corrientazo.firebaseio.com",
+    "project_id": "corrientazo",
+    "storage_bucket": "corrientazo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449887222508:android:0bc6a9e90e05fb2bd383c9",
+        "android_client_info": {
+          "package_name": "com.example.front_app_corrientazo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449887222508-ji9vtl70v532elsuvvr3sk868sogcd8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.front_app_corrientazo",
+            "certificate_hash": "c3df71085fd32be649e40f4f6fd9682c05a7f431"
+          }
+        },
+        {
+          "client_id": "449887222508-8n5cg61rd0bmrdgh59qn3cmq7arm3hfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACuRTdK8oKGy1Ah-Pz0u0wTqP2Hy1pd6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449887222508-8n5cg61rd0bmrdgh59qn3cmq7arm3hfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
